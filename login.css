@@ -1,0 +1,72 @@
+
+    input[type="email"],
+    input[type="password"]
+   {
+        width: 100%;
+        padding: 12px 40px;
+        margin: 8px 0;
+        display: inline-block;
+        border-radius: 7px;
+        box-sizing: border-box;
+    }
+    form{
+        width: 350px;
+        padding: 15px;
+        margin: auto;
+        bottom: 50%;
+    }
+    .container{
+        width: 100%;
+        padding: 20px;
+        border: 2px solid;
+        box-shadow: 5px 4px 3px #504f4f;
+        margin-top: 20%;
+    }
+    
+    .vivek i{
+      width: 100%;
+      padding: auto;
+        font-size: 30px;
+        color: green;
+       margin-left: 40%;
+       font-size: 70px;
+      
+      
+       
+    }
+    .manish{
+        position: relative;
+    }
+    .manish i{
+        position:absolute;
+        left: 25px;
+        top:40px;
+        color: gray;
+    }
+    .ajit{
+        position: relative;
+    }
+    .ajit i{
+        position:absolute;
+        left: 25px;
+        top:40px;
+        color: gray;
+    }
+    button[type="submit"]
+   {
+        width: 40%;
+        padding: 10px;
+        margin: auto;
+        border-radius: 10px;
+        background-color: #1c8adb;
+    }
+    button[type="reset"]{
+        width: 40%;
+        padding:10px ;
+        margin-left: 18%;
+        border-radius: 10px;
+        background-color: rgb(248, 148, 148);
+    }
+    button a{
+       line-clamp: noun;
+    }
